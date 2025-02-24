@@ -13,12 +13,12 @@ The **Stock Data Visualization** project is a web application designed to displa
 ```
 Stock-Data-Visualization/
 ├── data/
-│        └── dump.csv          # Source data file containing stock information
+│   └── dump.csv          # Source data file containing stock information
 ├── public/
 │   ├── css/ 
- |     |        └── styles.css   # CSS for styling the application
+|   |   └── styles.css   # CSS for styling the application
 │   ├── js/
-│    |        └── script.js    # JavaScript for frontend functionality
+│   |   └── script.js    # JavaScript for frontend functionality
 │   ├── index.html        # Main frontend HTML file
 ├── .gitignore            # Specifies files to ignore in the repository
 ├── package.json          # Node.js project metadata and dependencies
